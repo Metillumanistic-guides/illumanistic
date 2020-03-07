@@ -1,2 +1,3 @@
 # illumanistic
-Network diagnostic 
+Network diagnostics 
+
